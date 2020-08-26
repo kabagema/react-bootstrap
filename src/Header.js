@@ -168,7 +168,7 @@ export default class  extends Component {
                             <li>{/* Task item */}
                             <a href="fake_url">
                                 <h3>
-                                Create a nice theme
+                                Create a nice themation
                                 <small className="pull-right">40%</small>
                                 </h3>
                                 <div className="progress xs">
